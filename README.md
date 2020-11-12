@@ -24,3 +24,11 @@ of gebruik de WebStorm knop (npm start). Open [http://localhost:3000](http://loc
 de pagina in de browser te bekijken. Begin met het maken van wijzigingen in `src/App.js`: 
 elke keer als je een bestand opslaat, zullen de wijzigingen te zien zijn op de webpagina.
 
+
+## Tussenstappen bekijken
+De tutorial werkt in stapjes. Na elke stap kun je de bijbehorende branch bekijken om te zien hoe de 
+applicatie er op dat moment uit zou moeten zien:
+1. Einde paragraaf [2.2](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-1/src/App.js)
+2. Einde paragraaf [2.3](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-2/src)
+3. Einde paragraaf [2.4](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-3/src/App.js)
+4. Einde paragraaf [2.5](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-3/src/App.js)
