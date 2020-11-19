@@ -31,4 +31,6 @@ applicatie er op dat moment uit zou moeten zien:
 1. Einde paragraaf [2.2](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-1/src/App.js)
 2. Einde paragraaf [2.3](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-2/src)
 3. Einde paragraaf [2.4](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-3/src/App.js)
-4. Einde paragraaf [2.5](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-3/src/App.js)
+4. Einde paragraaf [2.5](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-4/src/App.js)
+5. Einde paragraaf [3.2](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-5/src/App.js)
+6. Einde paragraaf [3.4](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-6/src/App.js)
